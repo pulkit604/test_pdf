@@ -1,0 +1,3929 @@
+AUTOMOTIVE ENGINEERING
+Prof. Dr.-Ing. Dr. h.c. Dieter Schramm
+
+6
+
+DRIVE SYSTEMS PART II
+
+Automotive Engineering
+6
+
+LONGITUDINAL DYNAMICS
+6.1
+
+DRIVING RESISTANCES
+
+6.2
+
+DRIVETRAIN STRUCTURES
+
+6.3
+
+POWER REQUIREMENTS
+
+6.4
+
+INTERNAL COMBUSTION ENGINES (ICE)
+
+6.5
+
+DRIVETRAIN
+
+6.6
+
+PERFORMANCE & FUEL ECONOMY
+
+6.7
+
+ELECTRO-MOBILITY
+
+6.7.1 REMAINING POTENTIAL OF ICE
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+6.7.3 BATTERY ELECTRIC VEHICLES (BEV)
+6.7.4 SYSTEM COMPONENTS
+www.imech.de
+
+6.7 ELECTRO-MOBILITY
+ARE ELECTRIC DRIVES MORE ENVIRONMENT FRIENDLY?
+
+96%
+
+85%
+
+80%
+
+REGENERATIVE
+ENERGY
+
+POWER
+NET
+
+Battery
+
+EM
+
+53%
+
+SOURCES
+
+ENERGY
+GAIN
+
+Well to Wheel
+
+TRANSPORT
+
+Well to Tank
+FOSSILE
+ENERGIE
+
+REFINERY
+
+TRANSPORT
+
+85%
+
+92% 
+
+98% 
+
+Hybrid
+
+POWER PLANT
+
+elektrical/
+mechanical
+combined
+
+-
+
+Traction
+
+69
+2
+5%
+
+WHEEL
+
+Tank to Wheel
+ICE
+20%
+
+15%
+
+6.7 ELECTRO-MOBILITY
+GLOBAL CO2-LIMITS
+250
+
+216
+
+Actual
+2006
+
+Target
+2015
+
+CO2-limits in g/km
+
+200
+
+187
+160
+
+150
+
+Target
+2025
+
+168
+
+157
+?
+
+130
+
+141
+
+?
+
+132
+?
+
+95
+
+100
+50
+0
+EU
+
+US
+
+Japan
+
+China
+
+6.7 ELECTRO-MOBILITY
+FUEL PROVISION
+
+COMBUSTION ENGINE
+
+DRIVE TRAIN
+
+VEHICLE &
+WHEEL
+
+oil extraction
+&
+refinery
+transport
+&
+petrol station
+
+exhaust gas
+cooling water
+&
+radiation
+
+ancillaries
+auxiliary
+(air conditioning,
+resources
+radio, etc.)
+transmission,
+differential, etc.
+air resistance
+roll resistance
+rotation
+brake
+
+Well-to-Tank
+www.imech.de
+
+Tank-to-Wheel
+
+acceleration
+
+6.7 ELECTRO-MOBILITY
+EARLY APPROACHES TO ELECTRO-MOBILITY
+Lohner Porsche „Semper Vivus“ 1899
+
+battery Weight: 410 - 1800 kg
+
+Problems
+
+wheel-hub motors
+
+•
+
+driving range
+
+efficiency: 83%
+
+•
+
+cost – consumption
+
+driving range: 50 km
+
+•
+
+lifespan
+
+max. speed: 50 km/h
+
+•
+
+safety
+
+further model: Mixte-Wagen
+(hybrid drive, 1902)
+
+6.7 ELECTRO-MOBILITY
+EXAMPLE: BMW I3 BEV
+
+▪ consumption:
+
+1,6 l/100km
+
+▪ ICE (range extender): 34 PS (25 kW)
+▪ EM:
+
+170 PS (125 kW)
+
+▪ battery:
+
+18,8 kWh
+
+▪ driving range:
+
+130-160 km (BEV)
+240-300 km (REX)
+
+~ 2 l / 1,5 kg
+~230 kg
+
+efficiency
+considered
+~ 5,3 l / 4,0 kg
+
+Li-Ion-Battery
+
+Diesel
+
+AUTOMOTIVE ENGINEERING
+6
+
+LONGITUDINAL DYNAMICS
+6.1
+
+DRIVING RESISTANCES
+
+6.2
+
+DRIVETRAIN STRUCTURES
+
+6.3
+
+POWER REQUIREMENTS
+
+750
+be [g/kWh]
+
+200
+
+TCE,max [Nm]
+
+180
+
+700
+650
+
+PERFORMANCE & FUEL ECONOMY
+
+80
+
+3
+3 00
+321 0
+0
+60
+
+290
+34
+36 0
+3800
+400
+450
+
+40
+
+ELECTRO-MOBILITY
+
+6.7.1 REMAINING POTENTIAL OF ICE
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+6.7.3 BATTERY ELECTRIC VEHICLES (BEV)
+6.7.4 SYSTEM COMPONENTS
+www.imech.de
+
+500
+550
+600
+0
+500
+1000
+
+1500
+
+2000
+
+2500
+
+280
+
+29
+0
+
+340
+3600
+380
+40
+450
+
+340
+360
+380
+400
+450
+
+3000
+
+3500
+
+290
+
+0
+31
+
+290
+
+0
+30 10
+3 0
+32
+
+500
+
+550
+500
+
+0
+27
+
+280
+300
+332100
+
+600
+
+30
+0
+
+Drehoment [Nm]
+
+25
+0
+260
+270
+
+20
+
+6.7
+
+0
+25
+0
+26
+
+120
+100
+
+280
+
+6.6
+
+DRIVETRAIN
+
+250
+
+140
+
+280
+
+6.5
+
+INTERNAL COMBUSTION ENGINES (ICE)
+
+26
+0
+270
+
+6.4
+
+160
+
+500
+4000
+
+Motordrehzahl [1/min]
+
+4500
+
+5000
+
+500
+550
+600
+650
+700
+750
+5500
+6000
+
+450
+400
+350
+300
+250
+
+6.7.1 REMAINING POTENTIAL OF ICE
+FUEL CONSUMPTION INTERNAL COMBUSTION ENGine
+Consumption and emissions depending strongly on the operating point
+
+engine torque
+[Nm]/ (1/𝑁𝑚)
+Drehoment
+
+200
+180
+
+be [g/kWh]
+TCE,max [Nm]
+
+700
+650
+
+270
+
+250
+
+be,opt
+
+120
+
+25
+0
+260
+270
+
+280
+
+100
+
+80
+
+3
+3 00
+321 0
+0
+60
+
+290
+34
+36 0
+3800
+400
+450
+
+40
+500
+
+550
+600
+0
+500
+1000
+
+280
+300
+332100
+
+29
+0
+
+2000
+
+2500
+
+3000
+
+280
+
+0
+31
+
+290
+340
+3600
+380
+40
+450
+
+0
+30 10
+3 0
+32
+
+340
+38600
+3
+400
+450 00
+5
+3500
+4000
+
+[1/min]
+Motordrehzahl
+engine
+rpm /(1/min)
+www.imech.de
+
+550
+500
+
+0
+27
+
+500
+
+1500
+
+0
+25
+0
+26
+
+600
+
+30
+0
+
+140
+
+280
+
+26
+0
+
+290
+
+160
+
+20
+
+750
+
+sweet
+spot
+
+4500
+
+5000
+
+450
+400
+350
+
+500
+
+550
+600
+650
+700
+750
+5500
+6000
+
+300
+250
+
+be: specific fuel
+consumption, that is, of
+spent fuel per kWh used
+
+TCE,max: full load curve
+
+6.7.1 REMAINING POTENTIAL OF ICE
+TURBO CHARGING & DOWNSIZING
+reduction of piston displacement
+lower power can be compensated by turbocharging
+example: Twin-Air-Motor, FIAT, 0,9L-two cylinder,
+3,9l/100km at 85 hp (source: Automobilwoche edition 2010T
+
+750
+TCE,max [Nm]
+
+180
+
+80
+
+3
+3 00
+321 0
+0
+
+340
+360
+380
+400
+450
+
+40
+20
+
+500
+
+550
+600
+0
+500
+1000
+
+280
+30
+3100
+32
+0
+
+2000
+
+2500
+
+280
+
+0
+31
+
+290
+340
+3600
+38
+400
+450
+
+0
+30 10
+3 0
+32
+
+29
+0
+
+340
+360
+380
+400
+450
+
+500
+
+1500
+
+3000
+
+3500
+
+550
+500
+
+0
+27
+
+30
+0
+
+25
+0
+260
+270
+
+290
+
+290
+
+270
+
+0
+25
+0
+26
+
+120
+100
+
+600
+
+280
+
+26
+0
+
+250
+
+140
+
+60
+
+500
+4000
+
+4500
+
+5000
+
+engine torque /(𝑁𝑚)
+
+TURBO
+CHARGIN
+G
+
+200
+
+100
+
+800
+www.imech.de
+
+REFERENCE
+ENGINE
+
+Downsizing
+
+BASE
+ENGINE
+
+example: Turbo Charging
+
+1000
+
+2000
+
+3000
+
+Engine rpm /(1/𝑚𝑖𝑛)
+
+450
+400
+350
+
+500
+
+550
+600
+650
+700
+750
+5500
+6000
+
+Motordrehzahl [1/min]
+
+300
+
+700
+650
+
+160
+
+280
+
+400
+
+be [g/kWh]
+
+200
+
+Drehoment [Nm]
+
+•
+•
+•
+
+300
+250
+
+6.7.1 REMAINING POTENTIAL OF ICE
+DOWNSIZING & SUPER CHARGING
+• potential savings: 13% (in combination with downsizing)
+• Increase inflation pressure in combustion
+chamber -> performance improvement
+• engine map characteristic remains unchanged
+• concepts (among others): exhaust gas
+turbocharger (high speed), compressor (low speed)
+• supercharging facilitates reduction of the engine range
+• Example: BMW 1 Series: 4-cylinder in-line diesel engine
+displacement (all models): 1995 cm³
+performance: 116d: 115 hp (max. 260 Nm @ 1.750-2.500 rpm)
+118d: 143 hp (max. 300 Nm @ 1.750-2.500 rpm)
+120d: 177 hp (max. 350 Nm @ 1.750-3.000 rpm)
+123d: 204 hp (max. 400 Nm @ 2.000-2.250 rpm)
+www.imech.de
+
+6.7.1 REMAINING POTENTIAL OF ICE
+CYLINDER DEACTIVATION
+• saving potential: 7%
+• shifting the operating points in the engine map
+
+750
+be [g/kWh]
+
+200
+
+TCE,max [Nm]
+
+180
+
+700
+650
+
+3
+3 00
+321 0
+0
+
+290
+
+340
+360
+380
+400
+450
+
+20
+
+500
+
+550
+600
+0
+500
+1000
+
+280
+30
+3100
+32
+0
+
+1500
+
+2000
+
+2500
+
+280
+
+290
+
+0
+31
+
+290
+340
+360
+3800
+40
+450
+
+0
+30 10
+3 0
+32
+
+29
+0
+
+340
+360
+380
+400
+450
+
+500
+
+3000
+
+3500
+
+550
+500
+
+0
+27
+
+30
+0
+
+25
+0
+260
+270
+
+40
+
+500
+4000
+
+4500
+
+5000
+
+500
+550
+600
+650
+700
+750
+5500
+6000
+
+450
+400
+350
+300
+250
+
+engine torque /(𝑵𝒎)
+
+Motordrehzahl [1/min]
+
+power range of
+an eight cylinder
+
+300
+
+region of lowest
+specific consumption
+
+200
+
+100
+
+power range of the
+remaining four cylinder
+800
+
+www.imech.de
+
+270
+
+80
+
+280
+
+100
+
+600
+
+0
+25
+0
+26
+
+120
+
+60
+
+400
+
+26
+0
+
+250
+
+140
+
+280
+
+Drehoment [Nm]
+
+160
+
+1000
+
+2000
+engine rpm / (𝟏/min)
+
+3000
+
+6.7.1 REMAINING POTENTIAL OF ICE
+CONSUMPTION REDUCTION BY NEW SAVING
+
+SYSTEMS FOR GASOLINE ENGINES
+
+Reference: Engine: two-liter four-cylinder petrol engine with 136 hp
+Total weight: 1400kg
+hybrid technology
+8,0
+7,7
+7,0
+
+Fuel Consumption
+/ (l/100km)
+
+22%
+
+6,0
+
+39%
+
+6,0
+5,0
+
+1,4l, 210 Nm
+
+4,0
+3,0
+2,0
+1,0
+
+1,1l, 200 Nm
+
+2,0l, 200 Nm
+
++ direct injection
+
+man.
+transmission
+
++ downsizing
+
+man.
+transmission
+
+intake manifold
+injection
+
++ thermal
+management
+
++ start / stop
+
++ supercharging
+
+Quelle:
+
+5,5
+
+man. transmission
+
+0,0
+Euro 5
+
+Bosch in Automobilwoche edition 2010
+
+www.imech.de
+
+29%
+
+Euro 6
+
++ cylinder
+downsizing
+(3 cylinder)
++ variable valve
+adjustment
+
+Euro 6
+
+4,7
+1,1l, 200 Nm
+automatic
+transmissions
++ Hybrid
+(1 kWh battery,
+electric motor 25kW)
+
+Euro 6
+
+6.7.1 REMAINING POTENTIAL OF ICE
+PACKAGES OF MEASURES – E.G. BMW “EFFICIENT DYNAMICS”
+START-STOPAUTOMATIC
+
+ELECTRIC
+POWER
+STEERING
+
+LIGHTWEIGHT
+DESIGN
+(-24% WEIGHT)
+
+REDUCED ROLLING
+RESISTANCE
+TIRES
+
+SHIFT POINT
+DISPLAY
+
+» consumption reduction: 25 % (two generations of vehicles)
+source: BMW
+
+BRAKE ENERGY
+RECUPERATION
+www.imech.de
+
+AIR SHUTTER
+CONTROL
+
+AERO RIMS
+zurück
+
+AUTOMOTIVE ENGINEERING
+6
+
+LONGITUDINAL DYNAMICS
+
+DRIVETRAIN STRUCTURES
+
+6.3
+
+POWER REQUIREMENTS
+
+6.4
+
+INTERNAL COMBUSTION ENGINES (ICE)
+
+6.5
+
+DRIVETRAIN
+
+6.6
+
+PERFORMANCE & FUEL ECONOMY
+
+6.7
+
+ELECTRO-MOBILITY
+
+-
+
+6.2
+
++
+
+DRIVING RESISTANCES
+
+AC/DC
+
+6.1
+
+6.7.1 REMAINING POTENTIAL OF ICE
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+6.7.3 BATTERY ELECTRIC VEHICLES (BEV)
+6.7.4 SYSTEM COMPONENTS
+www.imech.de
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+HYBRID DRIVES
+•
+
+NOTION
+Hybrid (lat.), Mixed-Breed ', from two different origins'
+
+•
+
+BENEFITS
+optimized operation of the internal combustion engine by combination of the
+characteristics
+
+•
+
+RECUPERATION
+recovery of braking energy
+
+•
+
+DISADVANTAGES
+− cost and weight of additional components
+− system complexity
+
+www.imech.de
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+COMPARISON
+
+OF
+
+COMBUSTION ENGINE & ELECTRIC MOTOR
+maximum torque
+
+engine/motor torque / (𝑁𝑚))
+
+internal combustion
+engine (ICE)
+
+maximum torque
+electric motor (EM)
+
+driving resistance
+curve
+(stationary)
+
+engine/motor rpm / (1/min)
+www.imech.de
+
+source: Wallentowitz et al.
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+WHY CAN HYBRID DRIVES BE ADVANTAGEOUS?
+• avoidance of low engine loads (partial-load operation) by electric driving
+• and/or potential for downsizing ICE by extra electric power
+• recuperation operation of the electric drive
+• intelligent and anticipatory operating strategies
+
+sweet spot
+
+engine rpm
+
+POWER-SPLIT HYBRID
+M
+
+max
+
+engine torque
+
+M
+
+max
+
+engine torque
+
+M
+
+PARALLEL HYBRID
+
+max
+
+Laden
+
+engine rpm
+
+engine rpm
+
+„ normal
+
+E-motor
+
+driving range“
+
+operating
+
+www.imech.de
+
+engine torque
+
+CONVENTIONAL DRIVE
+
+source: Bosch
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+EXAMPLE: OPERATING
+
+POINTS OF THE ENGINE IN THE
+
+NEDC
+
+Full Hybrid, parallel-design (128 hp gasoline engine, 40 hp electric motor)
+
+kumulierter Verbrauch [l]
+
+Verbrauch hybrid
+Verbrauch konventionell
+NEFZ
+0.6
+
+80
+0.4
+
+recharge
+battery
+
+pure E-motor
+operation
+40
+
+0.2
+
+0
+0
+www.imech.de
+
+120
+
+200
+
+400
+
+600
+t [s]
+
+800
+
+1000
+
+0
+
+Geschwindigkeit [km/h]
+
+pure ICE
+operation
+
+0.8
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+EXAMPLE: OPERATING
+
+POINTS OF THE ENGINE IN THE
+
+NEDC
+
+Full Hybrid, parallel-design (128 hp gasoline engine, 40 hp electric motor)
+
+ICE
+
+Hybrid
+
+Consumption Reduction:
+
+ca. 20 %(*)
+
+(*): Consumption Hybrid charge level normalized
+www.imech.de
+
+6.7.2 Hybrid Electric Vehicles (HEV)
+
+Level of Hybridization
+
+Classification of Hybrid Electric Vehicle (HEV) Power Trains
+
+stop/start-operation of ICE
+electrical ancillaries
+
+MIKRO
+HYBRID
+
+Quelle: Toyota
+
+example BMW 1er
+▪ Preventing adverse efficiencies
+of the ICE
+▪ Intelligent operating strategies
+▪ Recuperation of braking energy
+www.imech.de
+
+▪ Classification according to
+degree of hybridization and
+Topology
+▪ Electric drive only conditionally
+possible
+
+6.7.2 Hybrid Electric Vehicles (HEV)
+
+Level of Hybridization
+
+Classification of Hybrid Electric Vehicle (HEV) Power Trains
+
+phlegmatization of ICE
+boost operation
+
+MILD
+HYBRID
+
+recuperation
+stop/start-operation of ICE
+electrical ancillaries
+
+MIKRO
+HYBRID
+
+example: MB S 400
+
+www.imech.de
+
+6.7.2 Hybrid Electric Vehicles (HEV)
+
+Level of Hybridization
+
+Classification of Hybrid Electric Vehicle (HEV) Power Trains
+
+stand alone electric drive possible
+phlegmatization of ICE
+boost operation
+
+FULL HYBRID
+MILD
+HYBRID
+
+recuperation
+stop/start-operation of ICE
+electrical ancillaries
+
+www.imech.de
+
+MIKRO
+HYBRID
+
+© GM Corp.
+
+Quelle: Toyota
+
+example: Toyota Prius
+
+6.7.2 Hybrid Electric Vehicles (HEV)
+Classification of Hybrid Electric Vehicle (HEV) Power Trains
+
+Level of Hybridization
+
+charge at socket
+stand alone electric drive possible
+phlegmatization of ICE
+boost operation
+
+PLUG-IN-HYBRID
+FULL HYBRID
+MILD
+HYBRID
+
+recuperation
+stop/start-operation of ICE
+electrical ancillaries
+
+www.imech.de
+
+MIKRO
+HYBRID
+
+© GM Corp.
+
+example: Opel Ampera
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+PARALLEL HYBRID ELECTRIC VEHICLE ( PARALLEL HEV)
+INVERTER
+
+AUTOMATIC
+CLUTCH
+
+AC/DC
+
+TRACTION BATTERY
+
++
+
+DIFFERENTIAL
+
+ICE
+
+EM
+
+TRANSMISSION
+TANK
+
+E x a m p l e : VW Touareg Hybrid (2010)
+www.imech.de
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+PARALLEL HYBRID ELECTRIC VEHICLE ( PARALLEL HEV)
+advantages
+• load level increase possible
+• only one electric machine required
+• purely mechanical force-transmission possible (internal combustion
+engine -> drive axle)
+• vehicles with conventional powertrains are largely unchanged
+(packaging, driving behavior)
+disadvantages
+• ICE speed related to wheel speed & speed of EM
+
+www.imech.de
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+SERIAL (PLUG-IN) HYBRID ELECTRIC VEHICLE (PHEV)
+INVERTER
+
+GENERATOR
+
+AC/DC
+
+TRACTION BATTERY
+
++
+
+-
+
+DIFFERENTIAL
+ICE
+
+EM
+
+FUEL TANK
+
+E x a m p l e : Opel Ampera/GM Volt (Li-Ion-battery 16 kWh, 8 kWh usable)
+www.imech.de
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+SERIAL (PLUG-IN) HYBRID ELECTRIC VEHICLE (PHEV)
+ADVANTAGES
+• operating point of ICE freely selectable
+• power of ICE freely selectable
+• strong recuperation due to large EM
+DISADVANTAGES
+• powerful generator and electric motor required
+• multiple energy conversion → high losses
+• expensive
+• device size
+• weight
+
+www.imech.de
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+POWER SPLIT HEV
+EM 2
+
+TRACTIONBATTERY
+
+(GENERATOR)
+INVERTER
+
+DIFFERENTIAL
+
+FUEL
+TANK
+ICE
+
+PLANETARY
+GEARBOX
+
+EM 1
+(MOTOR)
+
+E x a m p l e : Toyota Prius III (NiMH-Battery 1,3 kWh)
+www.imech.de
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+POWER SPLIT HEV
+• ADVANTAGES
+• operating point of ICE almost freely selectable
+• continuously variable transmission (CVT)
+• DISADVANTAGES
+• partial frequent energy conversions (due to the planetary gear)
+• relatively powerful EMs required
+• noise is partly in contradiction to the driving condition
+
+www.imech.de
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+POWER SPLIT HEV I (EXAMPLE TOYOTA PRIUS III)
+power split via planetary gear
+GENERATOR (PSM)
+42 KW
+
+ATKINSON-CYCLE
+1.8L, 73 KW
+MOTOR (PSM)
+60 KW
+LEFT FRONT
+WHEEL
+
+RIGHT FRONT
+WHEEL
+source: Toyota
+
+www.imech.de
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+POWER SPLIT HEV II
+(EXAMPLE TOYOTA PRIUS III)
+•
+
+electrification of all ancillary components
+− water pump
+− power steering (33 ... 46 V)
+− stabilizer activation (46 V)
+− climate compressor (201 ... 288 V)
+
+•
+
+electricity for indoor fan over solar roof (36
+cells, max. 53 W)
+
+•
+
+exhaust heat recovery
+
+www.imech.de
+
+shortening the warm up time by
+57% (-5…60°C, LA4-drive cycle)
+
+source: Toyota
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+POWER SPLIT HEV III
+(EXAMPLE TOYOTA PRIUS III)
+•
+
+NiMH battery with 28 modules á 7.2 V
+
+CELL
+ZELLE
+
+(1,2 V)
+
+MODULE
+MODUL
+
+(6 CELLS)
+
+ELECTRONIC
+CONTROL UNIT
+
+HIGH-VOLTAGE
+BATTERY MODULE
+
+STEUERGERÄT
+
+HOCHVOLT BATTERIE MODUL
+
+COOLING FAN
+KÜHLGEBLÄSE
+
+RELAIS
+SUB-UNIT
+SERVICE SOCKET
+SERVICESTECKDOSE
+www.imech.de
+
+source: Toyota
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+THROUGH-THE-ROAD / AXLE SPLIT HYBRID
+
+TRACTION BATTERY
+TRAKTIONS BATTERIE
+
+INVERTER
+WECHSELRICHTER
+
+ICE
+
+AC/DC
+
++
+
+DIFFERENTIAL
+DIFFERENTIAL
+
+DIFFERENTIAL
+DIFFERENTIAL
+
+EM
+
+TRANSMISSION
+GETRIEBE
+
+E x a m p l e : M a z d a HEV-4WD
+www.imech.de
+
+FUEL TANK
+KRAFTSTOFFTANK
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+MIKROHYBRID (BMW)
+• Features
+− Start / stop system
+− Brake Energy Regeneration
+• Performance EM:
+1-5 kW
+• Fuel savings:
+5-10%
+• Board supply voltage: 14 ... 42 V
+• Example: BMW 1-er-Series, 118i
+• ICE:
+105 kW (143 PS)
+• starter-generator
+• acceleration 0…100 km/h: 8,7 s
+• fuel consumption (NEDC): 6,1 l/100 km
+www.imech.de
+
+Quelle: www.bmw.de
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+MILD HYBRID (MERCEDES)
+• Features
+− start / stop system
+− recuperation
+− boosting
+• Power EM:
+5-15 kW
+• Fuel savings:
+15-20%
+• Board supply voltage: 42 ... 150 V
+Quelle: www.sueddeutsche.de
+
+• Example: Mercedes Benz S400 Hybrid
+• ICE:
+205 kW (279 HP)
+• EM:
+15 kW (20 HP)
+• acceleration 0…100 km/h: 7,2 s
+• standard consumption:
+7,9-8,2 l/100 km
+www.imech.de
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+FULL HEV
+• Features
+• start/stop-system
+• recuperation
+• boosting & pure electric mode
+• Power EM:
+> 20 kW
+• Fuel savings:
+up to 30 %
+• Board supply voltage:
+200…350 V
+• Example: Lexus GS 450 h
+• ICE:
+• EM:
+• acceleration
+• standard consumption :
+• electric range:
+www.imech.de
+
+107 kW (146 PS)
+147 kW (200 PS)
+0…100 km/h:5,9 s
+7,6 l/100 km
+up to 40 km/h
+
+Quelle: www.lexus.de
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+PLUG-IN HEV
+• Features:
+• start/stop-system
+• recuperation
+• boosting & pure electric mode
+• external charging of traction battery (plug-in)
+• power EM:
+> 20 kW
+• Fuel saving:
+up to 30 %
+• Example: Toyota Prius Plug-In Hybrid
+• ICE:
+73 kW (98 hp)
+• EM:
+60 kW (80 hp)
+• acceleration
+0…100 km/h:7,2 s
+• standard consumption: 2,6 l/100 km
+• electric range:
+up to 20 km (up to 100 km/h)
+www.imech.de
+
+source: www.toyota.de
+
+AUTOMOTIVE ENGINEERING
+6
+
+LONGITUDINAL DYNAMICS
+DRIVING RESISTANCES
+
+6.2
+
+DRIVETRAIN STRUCTURES
+
+6.3
+
+POWER REQUIREMENTS
+
+6.4
+
+INTERNAL COMBUSTION ENGINES (ICE)
+
+6.5
+
+DRIVETRAIN
+
+6.6
+
+PERFORMANCE & FUEL ECONOMY
+
+6.7
+
+ELECTRO-MOBILITY
+
++
+
+6.1
+
+6.7.3 BATTERY ELECTRIC VEHICLES (BEV)
+6.7.4 SYSTEM COMPONENTS
+www.imech.de
+
+AC/DC
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+
+-
+
+6.7.1 REMAINING POTENTIAL OF ICE
+
+6.7.3 BATTERY ELECTRIC VEHICLES (BEV)
+ADVANTAGES & DISADVANTAGES
+PRIMARY ENERGY
+•production (in theory) independent of fossil fuels
+•(coarse) distribution infrastructure largely in place
+•generation in / on the vehicle possible (regenerative, Range Extender)
+REDUCED POLLUTING EMISSIONS
+•(local) emissions
+•use of renewable energy
+ENERGY EFFICIENCY & OPERATING COST
+•high efficiency of the drive system (electric motor, recuperation)
+
+•high Entry (vehicle price) but low operating costs
+•very limited range with sole use of batteries
+www.imech.de
+
+6.7.3 BATTERY ELECTRIC VEHICLES (BEV)
+POTENTIALS & COSTS FOR CO2 REDUCTION
+CO2-reduction
+/%
+
+2025 lokal
+2010
+EU-Energie
+EU-Energy
+Mix
+
+100
+
+90
+
+BEV
+range 150 km
+
+80
+70
+Plug-In
+HEV
+
+60
+
+50
+Full-HEV
+
+40
+30
+
+• Downsizing, Turbo-charging
+• Direkt-Injection (homogenous)
+• Start-Stop-System with brake energy
+recuperation
+• Electrified auxiliary aggregates
+• ...
+
+Micro-/Mild-HEV
+
+20
+10
+
+optimized ICE
+
+additional cost
+
+0
+5.000
+www.imech.de
+
+10.000
+
+15.000
+
+20.000
+
+25.000
+
+/€
+
+6.7.3 BATTERY ELECTRIC VEHICLES (BEV)
+AVERAGE DAILY MILEAGE PER DAY OF A VEHICLE IN GERMANY
+800.000
+700.000
+
+75 km
+
+number of vehicles
+
+600.000
+50 km
+
+500.000
+400.000
+300.000
+200.000
+100.000
+0
+
+0
+www.imech.de
+
+20
+
+40
+
+60
+
+80
+100
+120
+distance traveled / km
+
+140
+
+160
+source: Wallentowitz et al.
+
+6.7.3 BATTERY ELECTRIC VEHICLES (BEV)
+VEHICLE DEVELOPMENT: CONVERSION DESIGN
+Example: BMW Mini E
++
++
++
++
+
+reconstruction of the powertrain
+further development of existing technologies
+cost-effective development process
+maintaining existing structures &
+use of installed Investments
++ maintaining established processes
+− no additional functions
+− no "real" innovation
+
+source: www.mini.de
+
+www.imech.de
+
+6.7.3 BATTERY ELECTRIC VEHICLES (BEV)
+VEHICLE DEVELOPMENT: PURPOSE DESIGN
+Example: BMW i3 & i8
+
++ new development of complete
+vehicle concept
++ new powertrain concepts
++ additional functionalities
+
++ ergonomics & operating
+concepts
++ new manufacturers / suppliers
+− very expensive development process
+
+www.imech.de
+
+source: BMW
+
+6.7.3 BATTERY ELECTRIC VEHICLES (BEV)
+STRUCTURES OF ELECTRIC DRIVE TRAINS
+additional degrees of freedom by eliminating individual components and
+dimensions
+CENTRAL DRIVE
+
++
+
+-
+
+SINGLE WHEEL
+
++
+
+AC/DC
+
+-
+
+EVTL.
+
+GETRIEBE
+
+EVTL.
+GETRIEBE
+
+• differential required
+
+• additional functionality
+
+• additional functions (e.g. torque
+vectoring, ESP, etc.) as in a
+conventional drive trains
+
+• wheel hub motors (rim integrated):
+− high unsprung wheel mass
+− vibration, temperature, dirt on the
+motor
+• tandem motor (installed in axle center)
+
+www.imech.de
+
+52
+
+AUTOMOTIVE ENGINEERING
+6
+
+LONGITUDINAL DYNAMICS
+6.1
+
+DRIVING RESISTANCES
+
+6.2
+
+DRIVETRAIN STRUCTURES
+
+6.3
+
+POWER REQUIREMENTS
+
+6.4
+
+INTERNAL COMBUSTION ENGINES (ICE)
+
+6.5
+
+DRIVETRAIN
+
+6.6
+
+PERFORMANCE & FUEL ECONOMY
+
+6.7
+
+ELECTRO-MOBILITY
+
+6.7.1 REMAINING POTENTIAL OF ICE
+
+6.7.2 HYBRID ELECTRIC VEHICLES (HEV)
+6.7.3 BATTERY ELECTRIC VEHICLES (BEV)
+6.7.4 SYSTEM COMPONENTS
+www.imech.de
+
+53
+
+6.7.4 SYSTEM COMPONENTS
+COMPONENTS OF THE ELECTRIC POWER TRAIN
+POWER STEERING,
+RADIO, ETC.
+additional loads
+(12V)
+
+TRANSMISSION
+
+&
+
+HEATING
+(~3KW)
+
+DC/DC
+
+DIFFERENTIAL
+DC/A
+C
+
+EM
+
+ASYNCHRONOUS
+MOTOR 90KW
+
++
+
+-
+
+BATTERY
+SYSTEM
+
+LIFEMGPO4-CELLS
+360V, 36KWH
+
+www.imech.de
+
+additional loads
+(360V)
+
+mass
+2550𝑘𝑔
+
+consumption
+22,5
+𝑘𝑊ℎ/100𝑘𝑚
+Range 160𝑘𝑚
+
+6.7.4 SYSTEM COMPONENTS
+TRANSMISSION
+
+EM
+
+𝑃𝐴 / (kW)
+
+single-stage gear units are sufficient
+low complexity
+efficiencies between 95 ... 98%
+no clutch required
+
+𝑀𝐴 / (NM)
+
+•
+•
+•
+•
+
+ICE
+EM
+
+ICE
+
+www.imech.de
+
+𝑣𝑉 / (𝑘𝑚/ℎ)
+
+𝑣𝑉 / (𝑘𝑚/ℎ)
+
+6.7.4 SYSTEM COMPONENTS
+CLASSIFICATION
+
+OF
+
+ELECTRIC DRIVES
+electromechanical
+energy converter
+
+DC
+machines
+
+three-phase
+machines
+
+asynchronous
+machines
+
+synchronous
+machines
+
+separately
+excited
+
+special
+designs
+
+permanently
+excited
+
+reluctance
+machines
+www.imech.de
+
+transverse flux
+machine
+
+6.7.4 SYSTEM COMPONENTS
+ELECTRIC DRIVES
+• components: electric machine, inverter (inverter), control
+• inverter AC / DC power converter, bidirectional (recuperation), adjustable
+• control: often field-oriented control, control of the inverter (voltage and
+frequency modulation)
+Example: hub motor
+
+source: www.kfztech.de
+
+www.imech.de
+
+source: www.siemens.com
+
+6.7.4 SYSTEM COMPONENTS
+ELECTRIC MACHINES
+
+250
+
+6
+0.8
+
+0.8
+0.82
+
+0.75
+
+• Efficiency Characteristic Map Asynchronous Motor Westinghouse 75kW
+
+0.8
+8
+
+0.84
+
+0.9
+
+0.7
+0.7
+0.75
+
+-50
+
+0
+0.8.82
+0.7
+0.8
+2 4
+0.8 0.8
+
+0.88
+
+0.84
+
+0.88
+
+0.9
+
+-150
+
+0.84
+0.82
+0.8
+0.78
+
+1000
+
+2000
+
+0.8
+6
+0.8
+4
+
+0.8
+6
+
+0.7
+
+0.74
+
+0.8
+
+0.84
+0.82
+
+www.imech.de
+
+82 0.8
+0.80.
+40.
+86 0
+.88
+0.9
+0.92
+0.88
+0.84
+0.82
+0.75 0.7 0.8
+0.7
+0.75 0.82
+0.8
+0.88
+0.9
+0.92 0.86
+0.88
+2
+.8
+0
+0.8
+
+0.76
+
+8
+0.8
+
+0.8
+
+-250
+0
+
+0.88
+
+2
+0.8
+
+0.75
+
+-200
+
+0.9
+
+0.9
+0.88 0.806.84
+
+-100
+
+0.9
+
+0.86
+
+0.860.9
+0.82
+0.75 0.7 0.8
+0.7
+0.75
+0.8
+0.82
+0.84
+0.86
+0.9
+
+0.8
+6
+
+Torque [Nm]
+
+0.7
+5
+
+0
+
+0.8
+8
+
+6
+0.8
+
+50
+
+TELM,min [Nm]
+
+0.8
+
+0.8
+4
+0.8
+6
+
+150
+100
+
+TELM,max [Nm]
+
+2
+0.8
+
+200
+
+ELM [1]
+
+2
+0.8
+
+3000
+
+0.72
+
+0.82
+
+4000
+
+5000
+RPM [1/min]
+
+6000
+
+7000
+
+8000
+
+9000
+
+10000
+
+0.7
+
+6.7.4 SYSTEM COMPONENTS
+ELECTRIC DRIVES - AREAS OF MAXIMUM EFFICIENCY
+
+• due to varying requirements
+(urban, rural, highway driving)
+no machine preferred
+
+Basic speed
+range
+
+torque
+
+• asynchronous machines (ASM)
+• permanent-magnet
+synchronous machine (PSM)
+• switched reluctance
+machines (GRM)
+
+constant
+torque region
+
+Feldschwächbereich
+Region of constant
+performance
+
+PSM
+GRM
+ASM
+rpm
+
+rated-/
+characteristic speed
+source: Naunin et al.
+
+www.imech.de
+
+6.7.4 SYSTEM COMPONENTS
+ENERGY STORAGE DEVICES
+• batteries (NiMH, lead, lithium-ion, etc.)
+• double layer capacitors (supercapacitors)
+• hydrogen
+
+POWER GENERATION
+• generator
+• fuel Cell
+• range Extender
+− combustion engine and generator or fuel cell to recharge the battery
+− structure: serial hybrid drive
+
+www.imech.de
+
+6.7.4 SYSTEM COMPONENTS
+ENERGY STORAGE DEVICES
+
+specific power / ( )
+
+Gravimetric energy and power density of energy storage: Ragone chart
+
+𝑊
+
+𝑘𝑔
+
+For Comparison:
+Diesel:
+11.600 𝑊ℎ/𝑘𝑔
+gasoline:
+12.700 𝑊ℎ/𝑘𝑔
+hydrogene: 33.300 𝑊ℎ/𝑘𝑔
+
+specific energy / (
+www.imech.de
+
+𝑊ℎ
+𝑘𝑔
+
+)
+
+source: Wallentowitz et al.
+
+6.7.4 SYSTEM COMPONENTS
+BASICS OF BATTERY SYSTEMS
+•
+•
+•
+•
+
+electrochemical energy storage devices
+distinction between primary and secondary cells (accumulators)
+arrangement of individual cells in series (modules) and parallel (pack)
+battery system components: battery pack thermal management (cooling,
+heating), battery management system (control)
+BATTERYMANAGEMENTSYSTEM
+
+CHARGING
+SYSTEM
+
+BATTERY
+
+CELL
+
+THERMALMANAGEMENT
+BATTERY CELLS
+www.imech.de
+
+MODULE N
+
+MODULE 1
+
+BATTERY PACKAGE
+source: Wallentowitz et al.
+
+6.7.4 SYSTEM COMPONENTS
+COMPONENTS OF A BATTERY SYSTEM
+
+COOLING MODULE
+KÜHLMODUL
+
+BATTERY CELLS
+
+• cells
+
+BATTERIEZELLEN
+
+• contact
+• power electronics
+
+• software
+• packaging
+HIGH-VOLTAGE
+CONNECTION
+CELL VOLTAGE MONITORING
+
+HOCHVOLT ANSCHLUSS
+
+ZELLSPANNUNG ÜBERWACHUNG
+picture:
+
+BATTERY MANAGEMENT SYSTEM
+BATTERIE MANAGEMENT SYSTEM
+www.imech.de
+
+Wallentowitz et al.
+
+6.7.4 SYSTEM COMPONENTS
+LITHIUM-ION-BATTERY
+AGING & DAMAGE MECHANISMS
+• Depth of discharge: Discharge to low states of charge
+• Deep discharge: terminal voltage drops below threshold, the negative
+electrode can corrode and become detached.
+• Overload: terminal voltage rises above threshold, electrodes may partially
+decompose or oxidize
+• Volume change: expansion of the electrode material in intercalation up to 9%
+• Solid Electrolyte Interface (SEI) film: top layer on the negative electrode
+reaction with electrolyte
+• High temperatures: Accelerated reaction of electrode and electrolyte
+• calendrical aging: Independent cycles, parasitic reaction of lithium with
+electrolyte
+www.imech.de
+
+6.7.4 SYSTEM COMPONENTS
+COMPARISON
+
+OF
+
+DIFFERENT TYPES OF BATTERIES
+
+CHARACTERISTIC VALUES
+
+energydensity
+
+[Wh/kg]
+[Wh/l]
+
+Ni-MH
+
+NaNiCl
+‚ZEBRA‘
+
+Li-Ion
+
+60-90
+
+100
+
+100-200
+
+150-250
+
+150-500
+
+power density
+
++
+
+-
+
++
+
+lifetime
+
+++
+
++
+
++
+
+cyclic stability
+
+++
+
++
+
++
+
+self-discharge
+
+--
+
+-
+
++
+source:
+Wallentowitz et al.
+
+www.imech.de
+
+Verständnisfragen Kapitel 6.7 (Intro) bis 6.7.4
+1.
+
+Der Energieverlust bei der Energiewandlung (/-transport) von „Well-to-Tank“ ist größer als der Verlust von
+„Tank-to-Wheel“.
+The energy loss during energy conversion (transport) from "well-to-tank" is greater than the loss from "tank-to-wheel".
+
+⃝
+
+wahr
+(true)
+
+⃝
+
+falsch
+(wrong)
+
+2. Turbolader erhöhen den Fülldruck im Zylinder, was zu einer Leistungssteigerung führt.
+Super chargers increase inflation pressure in the combustion chamber, which results into a performance increase.
+
+⃝
+
+3.
+
+wahr
+(true)
+
+⃝
+
+falsch
+(wrong)
+
+Nennen Sie drei typische Möglichkeiten, um den Verbrauch bei verbrennungsmotorisch angetriebenen
+Fahrzeugen zu realisieren. Name three typical ways to realize consumption reduction in internal combustion enginepowered vehicles.
+
+1.) ____________________________________
+2.) ____________________________________
+3.) ____________________________________
+
+4. Erläutern Sie den Unterschied zwischen den Klassifizierungen von „Mild Hybrid“ und „Full Hybrid“ bei
+batterieelektrischen Fahrzeugen.
+Explain the difference between the classifications of "Mild Hybrid" and "Full Hybrid" for battery electric vehicles.
+
+________________________________________________________________________
+________________________________________________________________________
+
+5. Nennen Sie die gezeigt Antriebstopologie und ergänzen Sie die fehlenden Bauteilbeschriftungen.
+Name the drive topology shown and fill in the missing component labels.
+
+Antriebstopologie (drive topology): ______________________________
+
+Verständnisfragen Musterlösung Kapitel 6.7 (Intro) bis 6.7.4
+1.
+
+Der Energieverlust bei der Energiewandlung (/-transport) von „Well-to-Tank“ ist größer als der Verlust von
+„Tank-to-Wheel“.
+The energy loss during energy conversion (transport) from "well-to-tank" is greater than the loss from "tank-to-wheel".
+
+⃝
+
+wahr
+(true)
+
+⃝
+
+falsch 6.7.1
+(wrong)
+
+2. Turbolader erhöhen den Fülldruck im Zylinder, was zu einer Leistungssteigerung führt.
+Super chargers increase inflation pressure in the combustion chamber, which results into a performance increase.
+
+⃝
+
+3.
+
+wahr 6.7.1
+(true)
+
+⃝
+
+falsch
+(wrong)
+
+Nennen Sie drei typische Möglichkeiten, um den Verbrauch bei verbrennungsmotorisch angetriebenen
+Fahrzeugen zu realisieren. Name three typical ways to realize consumption reduction in internal combustion enginepowered vehicles. 6.7.1
+1.) ____________________________________
+2.) ____________________________________
+3.) ____________________________________
+
+4. Erläutern Sie den Unterschied zwischen den Klassifizierungen von „Mild Hybrid“ und „Full Hybrid“ bei
+batterieelektrischen Fahrzeugen.
+Explain the difference between the classifications of "Mild Hybrid" and "Full Hybrid" for battery electric vehicles.
+
+__6.7.2______________________________________________________________________
+________________________________________________________________________
+
+5. Nennen Sie die gezeigt Antriebstopologie und ergänzen Sie die fehlenden Bauteilbeschriftungen.
+Name the drive topology shown and fill in the missing component labels.
+
+Antriebstopologie (drive topology): _s.u._______ 6.7.2____________________
+
+Automotive Engineering
+Prof. Dr.-Ing. Dr. h.c. Dieter Schramm
+
+7
+
+VEHICLE SAFETY
+
+7
+
+VEHICLE SAFETY
+7.1
+
+FIELDS OF VEHICLE SAFETY
+7.1.1
+7.1.2
+7.1.3
+7.1.4
+
+BASIC DEFINITIONS
+ACTIVE SAFETY SYSTEMS
+PASSIVE SAFETY SYSTEMS
+LEGAL RULES & REGULATIONS
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+7.3 BASIC FLOW OF A FRONTAL COLLISION
+
+7.3.1 PHYSICS OF FRONTAL COLLISIONS
+7.3.2 CRASH SEVERITY PARAMETERS
+7.4 RESTRAINT SYSTEMS
+7.4.1 SEAT BELTS & BELT TENSIONERS
+7.4.2 AIRBAG SYSTEMS
+7.4.3 DEPLOYMENT SENSORS & ALGORITHMS
+7.5 OCCUPANT DETECTION
+7.6 ROLLOVER
+www.imech.de
+
+7
+
+VEHICLE SAFETY
+7.1
+
+FIELDS OF VEHICLE SAFETY
+7.1.1
+7.1.2
+7.1.3
+7.1.4
+
+BASIC DEFINITIONS
+ACTIVE SAFETY SYSTEMS
+PASSIVE SAFETY SYSTEMS
+LEGAL RULES & REGULATIONS
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+7.3 BASIC FLOW OF A FRONTAL COLLISION
+
+7.3.1 PHYSICS OF FRONTAL COLLISION
+7.3.2 CRASH SEVERITY PARAMETERS
+7.4 RESTRAINT SYSTEMS
+7.4.1 SEAT BELTS & BELT TENSIONERS
+7.4.2 AIRBAG SYSTEMS
+7.4.3 DEPLOYMENT SENSORS & ALGORITHMS
+7.5 OCCUPANT DETECTION
+7.6 ROLLOVER
+www.imech.de
+
+7.1 FIELDS OF VEHICLE SAFETY
+Traffic Accidents vs. Number of Vehicles
+
+70
+
+30
+
+60
+
+number of motor vehicles
+
+50
+
+Number of accidents registered by police
+
+25
+
+20
+
+40
+15
+30
+
+10
+20
+5
+
+10
+
+0
+1900
+
+0
+1920
+
+1940
+
+1960
+year
+
+www.imech.de
+
+1980
+
+2000
+
+2020
+
+7
+
+VEHICLE SAFETY
+7.1
+
+FIELDS OF VEHICLE SAFETY
+7.1.1
+7.1.2
+7.1.3
+7.1.4
+
+BASIC DEFINITIONS
+ACTIVE SAFETY SYSTEMS
+PASSIVE SAFETY SYSTEMS
+LEGAL RULES & REGULATIONS
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+7.3 BASIC FLOW OF A FRONTAL COLLISION
+
+7.3.1 PHYSICS OF FRONTAL COLLISIONS
+7.3.2 CRASH SEVERITY PARAMETERS
+7.4 RESTRAINT SYSTEMS
+7.4.1 SEAT BELTS & BELT TENSIONERS
+7.4.2 AIRBAG SYSTEMS
+7.4.3 DEPLOYMENT SENSORS & ALGORITHMS
+7.5 OCCUPANT DETECTION
+7.6 ROLLOVER
+www.imech.de
+
+7.1.1 BASIC DEFINITIONS
+Safety Phases During Driving
+
+CONDITIONS
+
+information
+
+ACCIDENT
+PREVENTION
+
+PRE-CRASH
+
+warning
+&
+support
+
+intervention
+&
+conditioning
+
+ACTIVE
+SAFETY
+
+www.imech.de
+
+IN-CRASH
+
+ACCIDENT
+
+NORMAL
+DRIVING
+
+retention
+
+PASSIVE
+SAFETY
+
+POST-CRASH
+
+rescue
+
+RESCUE
+
+7
+
+VEHICLE SAFETY
+7.1
+
+FIELDS OF VEHICLE SAFETY
+7.1.1
+7.1.2
+7.1.3
+7.1.4
+
+BASIC DEFINITIONS
+ACTIVE SAFETY SYSTEMS
+PASSIVE SAFETY SYSTEMS
+LEGAL RULES & REGULATIONS
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+7.3 BASIC FLOW OF A FRONTAL COLLISION
+
+7.3.1 PHYSICS OF FRONTAL COLLISIONS
+7.3.2 CRASH SEVERITY PARAMETERS
+7.4 RESTRAINT SYSTEMS
+7.4.1 SEAT BELTS & BELT TENSIONERS
+7.4.2 AIRBAG SYSTEMS
+7.4.3 DEPLOYMENT SENSORS & ALGORITHMS
+7.5 OCCUPANT DETECTION
+7.6 ROLLOVER
+www.imech.de
+
+7.1.2 ACTIVE SAFETY SYSTEMS
+Fatalities in road traffic per 1,000 inhabitants in Germany
+
+1973
+0,8 Promille
+Blood alcohol content
+1972
+100 km/h 1973/74 Oil Crisis
+speed limit on
+high roads
+1974 recommended
+speed on highways
+
+25
+1957
+50 km/h
+urban
+speed limit
+
+20
+
+ABS
+Seat Belt
+
+15
+
+Airbag
+
+Cruise control
+system
+
+10
+
+1980 crash
+helmets
+1984 obligatory
+use of seatbelts
+
+1998
+0,8 Promille Blood
+alcohol content
+ESP
+
+ASR
+
+BAS
+ACC
+Emergency
+brake assistant
+Lane Keeping
+Tire pressure
+Adaptive
+Assist
+monitoring system
+high beam
+
+5
+
+3,307
+0
+53 55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+TIME
+www.imech.de
+
+90
+
+95
+
+2000
+
+05
+
+10
+
+14
+
+7
+
+VEHICLE SAFETY
+7.1
+
+FIELDS OF VEHICLE SAFETY
+7.1.1
+7.1.2
+7.1.3
+7.1.4
+
+BASIC DEFINITIONS
+ACTIVE SAFETY SYSTEMS
+PASSIVE SAFETY SYSTEMS
+LEGAL RULES & REGULATIONS
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+7.3 BASIC FLOW OF A FRONTAL COLLISION
+
+7.3.1 PHYSICS OF FRONTAL COLLISIONS
+7.3.2 CRASH SEVERITY PARAMETERS
+7.4 RESTRAINT SYSTEMS
+7.4.1 SEAT BELTS & BELT TENSIONERS
+7.4.2 AIRBAG SYSTEMS
+7.4.3 DEPLOYMENT SENSORS & ALGORITHMS
+7.5 OCCUPANT DETECTION
+7.6 ROLLOVER
+www.imech.de
+
+7.1.3 PASSIVE SAFETY SYSTEMS
+Personal Injuries in Traffic Accidents in Germany 1950-2010
+
+2.500
+
+number of personal injuries
+2.000
+
+number of accidents registered by police
+
+1.500
+
+1.000
+
+500
+
+0
+1940
+
+1950
+
+1960
+
+1970
+
+1980
+
+year
+
+www.imech.de
+
+1990
+
+2000
+
+2010
+
+2020
+
+7
+
+VEHICLE SAFETY
+7.1
+
+FIELDS OF VEHICLE SAFETY
+7.1.1
+7.1.2
+7.1.3
+7.1.4
+
+BASIC DEFINITIONS
+ACTIVE SAFETY SYSTEMS
+PASSIVE SAFETY SYSTEMS
+LEGAL RULES & REGULATIONS
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+7.3 BASIC FLOW OF A FRONTAL COLLISION
+
+7.3.1 PHYSICS OF FRONTAL COLLISION
+7.3.2 CRASH SEVERITY PARAMETERS
+7.4 RESTRAINT SYSTEMS
+7.4.1 SEAT BELTS & BELT TENSIONERS
+7.4.2 AIRBAG SYSTEMS
+7.4.3 DEPLOYMENT SENSORS & ALGORITHMS
+7.5 OCCUPANT DETECTION
+7.6 ROLLOVER
+www.imech.de
+
+7.1.4 LEGAL RULES & REGULATIONS
+CRASH TEST SCENARIOS
+
+www.imech.de
+
+7.1.4 LEGAL RULES & REGULATIONS
+Consumer Protection & Legal Regulations in Important Automotive Market Areas
+
+Legal Regulations
+
+ODB
+
+FF
+
+Europe
+
+ECE-R94; 96/79/EC
+
+56 km/h
+
+-
+
+USA
+
+FMVSS 208
+
+40 km/h
+
+56 km/h
+
+Japan
+
+TRIAS
+
+56 km/h
+
+50 km/h
+
+China
+
+GB 11551-2003
+
+56 km/h
+
+50 km/h
+
+ODB
+
+FF
+
+Euro-NCAP
+
+64 km/h
+
+-
+
+US-NCAP
+
+-
+
+56 km/h
+
+IIHS
+
+64 km/h
+
+-
+
+Japan
+
+JNCAP
+
+-
+
+55 km/h
+
+China
+
+C-NCAP
+
+-
+
+50 km/h
+
+Consumer Protection
+Europe
+USA
+
+www.imech.de
+
+ODB: Offset Deformable Barrier
+FF:
+
+Full Frontal
+
+NCAP:New Car Assessment
+Program
+
+7.1.4 LEGAL RULES & REGULATIONS
+SHARES OF VARIOUS TYPES OF ACCIDENTS IN GERMANY
+
+side impact
+23 %
+
+rollover
+2%
+
+frontal impact
+51 %
+
+rear impact
+4%
+
+rollover
+11 %
+
+side impact
+45 %
+
+tunneling
+under
+12 %
+
+rear impact
+24 %
+
+frontal impact
+28 %
+
+Accidents in Germany
+
+www.imech.de
+
+Fatalities in Germany
+
+7
+
+VEHICLE SAFETY
+7.1
+
+FIELDS OF VEHICLE SAFETY
+7.1.1
+7.1.2
+7.1.3
+7.1.4
+
+BASIC DEFINITIONS
+ACTIVE SAFETY SYSTEMS
+PASSIVE SAFETY SYSTEMS
+LEGAL RULES & REGULATIONS
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+7.3 BASIC FLOW OF A FRONTAL COLLISION
+
+7.3.1 PHYSICS OF FRONTAL COLLISIONS
+7.3.2 CRASH SEVERITY PARAMETERS
+7.4 RESTRAINT SYSTEMS
+7.4.1 SEAT BELTS & BELT TENSIONERS
+7.4.2 AIRBAG SYSTEMS
+7.4.3 DEPLOYMENT SENSORS & ALGORITHMS
+7.5 OCCUPANT DETECTION
+7.6 ROLLOVER
+www.imech.de
+
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+FORCE FLOW (LIGHT ARROWS) IN THE CAR BODY
+IN A FRONTAL IMPACT (LEFT) AND A SIDE IMPACT (RIGHT)
+
+www.imech.de
+
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+TYPICAL ACCELERATION DURING A FRONTAL CRASH
+
+acceleration
+accel
+
+Ereigniswechsel
+event change
+Crashsignal
+crash signal
+
+time
+
+www.imech.de
+
+time
+
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+TYPICAL ACCIDENT SCENARIOS FOR THE FRONT STRUCTURE
+Examples:
+•
+
+AZT (Allianz Zentrum für Technik)
+
+•
+
+FF (Full Frontal)
+
+•
+
+ODB (Offset Deformable Barrier)
+
+These and other standardized methods gain insights into the deformation behavior and
+the signal transmission of the vehicle structure in different load cases already during
+the early development phase of a vehicle.
+
+In this way any weak points can be detected in good time and corrected if necessary.
+
+www.imech.de
+
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+TYPICAL ACCIDENT SCENARIOS FOR THE FRONT STRUCTURE
+AZT/RCAR-TEST
+
+10o
+
+www.imech.de
+
+•
+
+"Insurance test" established by the "Alliance
+Center for Technology" to estimate the repair
+effort in light rear-end collisions and parking
+bumps
+
+•
+
+Restraint systems must not trigger
+
+•
+
+No damage to the side member structure
+and the components in the front end
+
+•
+
+Since 2006 additional 10°angle barrier
+
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+TYPICAL ACCIDENT SCENARIOS FOR THE FRONT STRUCTURE
+FF (FULL FRONTAL) - TEST
+
+• In the FF crash, a vehicle strikes a rigid
+obstacle with the entire front end.
+
+www.imech.de
+
+•
+
+This "High Speed Crash" is driven depending
+on applicable regulations of the respective
+country with collision speeds between 50 and
+56 km/h.
+
+•
+
+In the US, Japan and China, this crash
+scenario is part of the standard portfolio,
+
+•
+
+In Europe, this load case is not tested.
+
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+TYPICAL ACCIDENT SCENARIOS FOR THE FRONT STRUCTURE
+OBD TEST
+
+www.imech.de
+
+•
+
+The Offset Deformable Barrier Test is both
+part of the European frontal impact
+regulations and an integral part of
+international testing.
+
+•
+
+The front part of the barrier consists of a soft
+aluminum honeycomb structure.
+
+•
+
+The rear part consists of a solid concrete
+block.
+
+•
+
+This crash structure simulates the
+deformation behavior of a second vehicle as
+a collision partner.
+
+•
+
+The 40% level of coverage initiates an offset
+impact because, according to accident
+statistics, the offset frontal impact is the most
+frequently reported road accident involving
+personal injury.
+
+7
+
+VEHICLE SAFETY
+7.1
+
+FIELDS OF VEHICLE SAFETY
+7.1.1
+7.1.2
+7.1.3
+7.1.4
+
+BASIC DEFINITIONS
+ACTIVE SAFETY SYSTEMS
+PASSIVE SAFETY SYSTEMS
+LEGAL RULES & REGULATIONS
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+7.3 BASIC FLOW OF A FRONTAL COLLISION
+
+7.3.1 PHYSICS OF FRONTAL COLLISIONS
+7.3.2 CRASH SEVERITY PARAMETERS
+7.4 RESTRAINT SYSTEMS
+7.4.1 SEAT BELTS & BELT TENSIONERS
+7.4.2 AIRBAG SYSTEMS
+7.4.3 DEPLOYMENT SENSORS & ALGORITHMS
+7.5 OCCUPANT DETECTION
+7.6 ROLLOVER
+www.imech.de
+
+7.3.1 PHYSICS OF FRONTAL COLLISIONS
+PHYSICAL CONSIDERATIONS I
+ONE CAR STRIKES A SOLID BARRIER
+
+Total change of momentum:
+
+Deformation force during crash:
+Other external forces:
+For one car against a rigid obstacle:
+
+www.imech.de
+
+𝑚1
+
+𝑣0
+
+𝑡
+
+𝑒𝑛𝑑
+𝑎
+∆𝐼 = 𝐼 𝑡𝑒𝑛𝑑 − 𝐼 0 = ‫=𝑡׬‬0
+𝐹𝐷𝑒𝑓
+𝜏 + 𝐹𝑎 𝜏
+
+𝑎
+𝐹𝐷𝑒𝑓
+(𝜏)
+
+𝑎
+𝐹 𝑎 𝜏 ≪ 𝐹𝐷𝑒𝑓
+
+∆𝐼 = 𝐼 𝑡𝑒𝑛𝑑 − 𝐼 0 = 𝑚1 (𝑣𝑒𝑛𝑑 − 𝑣0 )
+
+𝑑𝜏
+
+7.3.1 PHYSICS OF FRONTAL COLLISIONS
+PHYSICAL CONSIDERATIONS II
+FRONTAL CRASH OF TWO CARS
+
+𝑚1
+
+𝑣1
+
+Change of momentum for the two cars:
+∆𝐼2 = 𝑚2 0𝑣2 − 𝑒𝑣2
+∆𝐼1 = 𝑚1 0𝑣1 − 𝑒𝑣1 ,
+
+∆𝐼1 + ∆𝐼2 = 0 ⇒ 𝑚1 𝑒𝑣1 + 𝑚2 𝑒𝑣2 = 𝑚1 0𝑣1 + 𝑚2 0𝑣2
+
+We assume a semi-elastic impact:
+𝑒
+
+𝑣1 − 𝑒𝑣2 = −𝜀( 0𝑣1 − 0𝑣2 )
+
+Thus:
+
+𝑚2
+∆𝑣1 = 𝑣1 − 𝑣1 = −
+( 0𝑣1 − 0𝑣2 )(1 + 𝜀)
+𝑚1 + 𝑚2
+𝑒
+
+0
+
+∆𝑣2 = 𝑒𝑣2 − 0𝑣2 = −
+www.imech.de
+
+𝑚1
+( 0𝑣2 − 0𝑣1 )(1 + 𝜀)
+𝑚1 + 𝑚2
+
+𝑣2
+
+𝑚2
+
+7.3.1 PHYSICS OF FRONTAL COLLISIONS
+PHYSICAL CONSIDERATIONS III
+ENERGY CONSIDERATIONS
+Change of kinetic energy:
+1
+1
+1
+1
+∆𝐸 = 𝑒𝐸 − 0𝐸 = 𝑚1 𝑒𝑣12 + 𝑚2 𝑒 𝑣22 − ( 𝑚1 0𝑣12 + 𝑚2 0𝑣22 )
+2
+2
+2
+2
+1 𝑚1 𝑚2 0
+𝑣1 − 0𝑣2 2 (1 − 𝜀 2 )
+∆𝐸 =
+2 𝑚1 + 𝑚2
+Crash against a rigid obstacle with infinite mass:
+1
+𝑒
+𝑣1 = −𝑣𝜀 and ∆𝐸 = 𝑚𝑣 2 (1 − 𝜀 2 )
+2
+𝑡𝑒𝑛𝑑
+
+𝑎
+∆𝐸 ≈ −𝑊𝑑𝑒𝑓 = − න 𝐹𝑑𝑒𝑓
+(𝜏)𝑑𝜏
+𝑡=0
+
+www.imech.de
+
+7
+
+VEHICLE SAFETY
+7.1
+
+FIELDS OF VEHICLE SAFETY
+7.1.1
+7.1.2
+7.1.3
+7.1.4
+
+BASIC DEFINITIONS
+ACTIVE SAFETY SYSTEMS
+PASSIVE SAFETY SYSTEMS
+LEGAL RULES & REGULATIONS
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+7.3 BASIC FLOW OF A FRONTAL COLLISION
+
+7.3.1 PHYSICS OF FRONTAL COLLISIONS
+7.3.2 CRASH SEVERITY PARAMETERS
+7.4 RESTRAINT SYSTEMS
+7.4.1 SEAT BELTS & BELT TENSIONERS
+7.4.2 AIRBAG SYSTEMS
+7.4.3 DEPLOYMENT SENSORS & ALGORITHMS
+7.5 OCCUPANT DETECTION
+7.6 ROLLOVER
+www.imech.de
+
+7.3.2 CRASH SEVERITY PARAMETERS
+
+EBS (Equivalent Barrier Speed)
+For this criterion, the impact velocity on a flat rigid barrier is used as a
+comparison, during which the same deformation work 𝑊𝑑𝑒𝑓 is implemented
+during the collision as in the case of a real accident.
+ETS (Equivalent Test Speed)
+This quantity corresponds to the impact speed on a suitable, fixed or movable
+obstacle, in which the same deformation work as in the real accident is
+implemented. It is also assumed again that the damages that occur here can
+represent those arising in the real accident.
+EES (Energy Equivalent Speed)
+Here, the criterion is the impact speed on any fixed obstacle, in which the
+same deformation work as in the real accident is implemented. The speed 𝑣𝐸𝐸𝑆
+is then calculated to:
+
+www.imech.de
+
+𝑣𝐸𝐸𝑆 =
+
+2
+
+𝑊𝑑𝑒𝑓
+𝑚
+
+7.3.2 CRASH SEVERITY PARAMETERS
+Velocity change Δv
+Here, the difference between the collision speed and the exit speed is taken as
+the basis.
+Ride-Down-Effect
+The ride-down effect provides information about the extent to which the occupant
+protection systems are effective during an accident.
+It is calculated with the maximum deformation path 𝑠max of the vehicle, the
+deformation path of the vehicle 𝑠𝑅𝐷 at time 𝑡𝑅𝐷 from which the occupant restraint
+becomes effective, to:
+𝑠max − 𝑠𝑅𝐷
+100%
+𝑅𝐷𝐸 =
+𝑠max
+A value of 100% means that the deceleration of the occupant starts
+simultaneously with the deceleration of the vehicle at t = 0. Correspondingly, a
+value of 0% means that the occupant did not experience any delay by the restraint
+systems until the maximum vehicle deformation has been reached.
+
+www.imech.de
+
+7
+
+VEHICLE SAFETY
+7.1
+
+FIELDS OF VEHICLE SAFETY
+7.1.1
+7.1.2
+7.1.3
+7.1.4
+
+BASIC DEFINITIONS
+ACTIVE SAFETY SYSTEMS
+PASSIVE SAFETY SYSTEMS
+LEGAL RULES & REGULATIONS
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+7.3 BASIC FLOW OF A FRONTAL COLLISION
+
+7.3.1 PHYSICSOF FRONTAL COLLISIONS
+7.3.2 CRASH SEVERITY PARAMETERS
+7.4 RESTRAINT SYSTEMS
+7.4.1 SEAT BELTS & BELT TENSIONERS
+7.4.2 AIRBAG SYSTEMS
+7.4.3 DEPLOYMENT SENSORS & ALGORITHMS
+7.5 OCCUPANT DETECTION
+7.6 ROLLOVER
+www.imech.de
+
+7.4.1 SEAT BELTS & BELT TENSIONERS
+RESTRAINT SYSTEM COMPONENTS IN A MODERN CAR
+OVERVIEW
+ROOF BAG
+
+DATA CABLES
+
+SIDE AIRBAG
+
+OUT-OF-POSITION SENSOR
+
+CO-DRIVER AIRBAG
+BELT-TENSIONER
+
+PRECRASH - SENSOR
+DRIVER
+AIRBAG
+
+SIDE AIRBAG SENSOR
+UPFRONT - SENSORS
+
+www.imech.de
+
+ECU
+
+7.4.1 SEAT BELTS & BELT TENSIONERS
+INTEGRATED RESTRAINT SYSTEM
+
+AIRBAG SYSTEM
+
+CRASH
+SENSORS
+
+IGNITER
+
+AIRBAG
+
+ECU
+VEHICLE
+OCCUPANTS
+
+BELT SYSTEM
+
+BELT
+TENSIONER
+SEAT
+BELTS
+LIMITER
+
+www.imech.de
+
+7.4.1 SEAT BELTS & BELT TENSIONERS
+OCCUPANT FORWARD DISPLACEMENT WITH AND WITHOUT RESTRAINT SYSTEM
+B
+
+C
+
+D
+A impact
+
+50
+
+100
+
+B actuation of belt tensioner and airbag
+km
+)
+h
+
+C belt tightened
+
+40
+
+80
+
+occupant velocity 𝑣/(
+
+D airbag filled
+𝑠
+
+30
+
+𝑣
+
+20
+
+without
+restraint system 40
+𝑠
+with restraint
+system
+
+10
+
+0
+www.imech.de
+
+20
+
+40
+
+60
+
+60
+
+80
+
+time 𝑡/ms
+
+20
+
+occupant forward displacement 𝑠/cm
+
+A
+
+7.4.1 SEAT BELTS & BELT TENSIONERS
+EXAMPLE FOR A BELT (PRE-)TENSIONER
+
+BELT
+
+PISTON
+SQUIB
+CYLINDER
+IGNITION CABLE
+PROPELLANT
+STEEL CORD
+
+www.imech.de
+
+BELT ROLL
+
+7
+
+VEHICLE SAFETY
+7.1
+
+FIELDS OF VEHICLE SAFETY
+7.1.1
+7.1.2
+7.1.3
+7.1.4
+
+BASIC DEFINITIONS
+ACTIVE SAFETY SYSTEMS
+PASSIVE SAFETY SYSTEMS
+LEGAL RULES & REGULATIONS
+7.2 INFLUENCE OF THE VEHICLE STRUCTURE
+7.3 BASIC FLOW OF A FRONTAL COLLISION
+
+7.3.1 PHYSICSOF FRONTAL COLLISIONS
+7.3.2 CRASH SEVERITY PARAMETERS
+7.4 RESTRAINT SYSTEMS
+7.4.1 SEAT BELTS & BELT TENSIONERS
+7.4.2 AIRBAG SYSTEMS
+7.4.3 DEPLOYMENT SENSORS & ALGORITHMS
+7.5 OCCUPANT DETECTION
+7.6 ROLLOVER
+www.imech.de
+
+7.4.2 AIRBAG SYSTEMS
+BASIC STRUCTURE OF AN AIRBAG CONTROL UNIT
+
+ENERGY
+SUPPLY
+
+ENERGY
+RESERVE
+
+REDUNDANT SAFETY PATH
+
+power net
+
+external
+crashsensors
+
+other
+sensors
+
+INPUT
+STAGES
+
+COMMUNI-
+
+MICRO CONTROLLER
+(ECU)
+ OPERATING SYSTEM
+ TRIGGERING ALGORITHM
+ ETC.
+
+INTERNAL SENSORS
+
+CATION
+
+bussystem
+
+www.imech.de
+
+INTERFACE
+
+CRASH
+
+ROLLOVER
+
+MECHANIC
+SWITCHES
+
+AMPLIFIERS
+FOR
+
+IGNITION
+CIRCUITS
+AND
+ACTUATORS
+
+ignition circuits
+actuators
+
+7.4.2 AIRBAG SYSTEMS
+GAS GENERATOR
+
+AIR BAG
+METAL HOUSING
+
+DISCHARGE OPENING
+IGNITER COMPOSITION
+
+www.imech.de
+
+PROPELLANT
+
+IGNITER
+
+IN PILL FORM
+
+WITH SQUIB
+
+7.4.2 AIRBAG SYSTEMS
+AIRBAGS
+CO-DRIVER
+AIRBAG
+HEAD BAGS
+
+DRIVER
+AIRBAG
+
+SIDE AIRBAGS
+
+www.imech.de
+
+
